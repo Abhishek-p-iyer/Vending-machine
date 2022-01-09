@@ -2,6 +2,9 @@
 A Candy dispenser or a chocolate vending machine using 8051 ALP code with a proteus simulation. 
 
 Using the proteus simulation - 
+
+
+
 As soon as you start the simulation, a welcome message is displayed "WELCOME TO CHOCOLATE VENDING MACHINE". 
 As soon as the welcome message is displayed, the 8051 will ask the user to enter his/her ID, the ID that needs to be entered in the virtual terminal is "1234567890". 
 If the ID entered is incorrect, a RED LED would glow and the 8051 will ask you to enter the ID again. 
